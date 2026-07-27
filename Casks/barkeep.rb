@@ -1,6 +1,6 @@
 cask "barkeep" do
-  version "1.1.0"
-  sha256 "e5b96ff67548c68fbed24a7519f50f79041431041e51b001a54238791be36474"
+  version "1.1.1"
+  sha256 "aa499db65676d2592ca65a2b12c67242a8f5358a3852b825655adb87267743b1"
 
   url "https://github.com/hamsitech/Barkeep/releases/download/v#{version}/Barkeep-#{version}.zip"
   name "Barkeep"
