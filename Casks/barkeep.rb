@@ -7,7 +7,7 @@ cask "barkeep" do
   desc "Menu bar app for managing Homebrew services"
   homepage "https://github.com/hamsitech/Barkeep"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: ":ventura"
 
   app "Barkeep.app"
 
